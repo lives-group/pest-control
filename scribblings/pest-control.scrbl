@@ -2,7 +2,7 @@
 @require[@for-label[racket/base]]
 
 @title{typed-peg: A parsing library for parsing expression grammars}
-@author{Elton Cardoso, Leonardo Reis, Rodrigo Ribeiro}
+@author{Elton Cardoso , Leonardo Reis , Rodrigo Ribeiro}
 
 @defmodule[typed-peg-stack]
 
