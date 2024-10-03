@@ -10,5 +10,5 @@
 (define scribblings '(("scribblings/pest-control.scrbl" ())))
 (define pkg-desc "Description Here")
 (define version "0.0")
-(define pkg-authors '(rodrigo elton guilherme))
+(define pkg-authors '( rodrigo elton guilherme ))
 (define license '(Apache-2.0 OR MIT))
